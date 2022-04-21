@@ -1,0 +1,14 @@
+.navbar {
+  padding: 10px 20px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: flex-end;
+  background-color: aqua;
+  gap: 20px;
+}
+.navbar > button {
+  background-color: blueviolet;
+  padding: 5px 10px;
+  color: white;
+  border-radius: 10px;
+}

@@ -1,0 +1,11 @@
+.signInDiv{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 6px;
+    width: 45%;
+    margin: 20px auto;
+    justify-content: center;
+}
